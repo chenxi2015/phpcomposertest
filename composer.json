@@ -1,0 +1,14 @@
+{
+    "name": "chenxi2015/phpcomposertest",
+    "description": "composer test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chenxi2015",
+            "email": "bbxycx.18@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

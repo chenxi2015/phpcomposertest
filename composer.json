@@ -1,7 +1,7 @@
 {
     "name": "chenxi2015/phpcomposertest",
     "description": "composer test",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
